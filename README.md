@@ -7,12 +7,19 @@ About the model, I train 3 CNN models. The first model is a 3 layers single Conv
 The accuarcy of first model(3 layers single Conv2D with 8 epochs) is 78.03%
 The accuarcy of second model(2 layers single Conv2D with 6 epochs) is 76.24%
 The accuarcy of third model(3 layers double Conv2D with 6 epochs) is 94.05%
+
 <img width="188" height="26" alt="image" src="https://github.com/user-attachments/assets/e8fcb74b-9bfb-457c-900d-4281287eafe9" />
+
 <img width="292" height="23" alt="image" src="https://github.com/user-attachments/assets/342827ef-d62b-4131-a880-16a53315bad9" />
+
 <img width="285" height="24" alt="image" src="https://github.com/user-attachments/assets/9ebd6bb9-84c6-434a-8ea1-10d77ab6ebd7" />
 
 Reference
+
 https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset
+
 https://github.com/kimanalytics/Handwritten-Digit-Recognition-using-Keras-and-TensorFlow
+
 https://colab.research.google.com/drive/1ZWck46dROBmOHTOKf7R20Vj_TpJoIIVN?usp=sharing
+
 https://github.com/darshitajain/Introduction-to-OpenCV
