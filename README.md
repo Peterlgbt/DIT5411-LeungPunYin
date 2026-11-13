@@ -14,12 +14,10 @@ The accuarcy of third model(3 layers double Conv2D with 6 epochs) is 94.05%
 
 <img width="285" height="24" alt="image" src="https://github.com/user-attachments/assets/9ebd6bb9-84c6-434a-8ea1-10d77ab6ebd7" />
 
+
 Reference
 
 https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset
-
 https://github.com/kimanalytics/Handwritten-Digit-Recognition-using-Keras-and-TensorFlow
-
 https://colab.research.google.com/drive/1ZWck46dROBmOHTOKf7R20Vj_TpJoIIVN?usp=sharing
-
 https://github.com/darshitajain/Introduction-to-OpenCV
